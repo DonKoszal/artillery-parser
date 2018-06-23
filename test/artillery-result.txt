@@ -1,0 +1,522 @@
+Started phase 0, duration: 1s @ 20:29:45(+0200) 2018-06-22
+Started phase 1, duration: undefineds @ 20:29:46(+0200) 2018-06-22
+Report @ 20:29:55(+0200) 2018-06-22
+  Scenarios launched:  25
+  Scenarios completed: 25
+  Requests completed:  25
+  RPS sent: 2.52
+  Request latency:
+    min: 440.9
+    max: 1537.4
+    median: 1125.3
+    p95: 1509
+    p99: 1537.4
+  Codes:
+    200: 25
+
+Started phase 2, duration: 1s @ 20:29:56(+0200) 2018-06-22
+Started phase 3, duration: undefineds @ 20:29:57(+0200) 2018-06-22
+Report @ 20:30:05(+0200) 2018-06-22
+  Scenarios launched:  50
+  Scenarios completed: 50
+  Requests completed:  50
+  RPS sent: 5.57
+  Request latency:
+    min: 402.6
+    max: 3447.1
+    median: 2053
+    p95: 3375.4
+    p99: 3447.1
+  Codes:
+    200: 50
+
+Started phase 4, duration: 1s @ 20:30:07(+0200) 2018-06-22
+Started phase 5, duration: undefineds @ 20:30:08(+0200) 2018-06-22
+Report @ 20:30:15(+0200) 2018-06-22
+  Scenarios launched:  75
+  Scenarios completed: 75
+  Requests completed:  75
+  RPS sent: 9.39
+  Request latency:
+    min: 476.1
+    max: 5614.4
+    median: 3120.9
+    p95: 5459.7
+    p99: 5611.3
+  Codes:
+    200: 75
+
+Started phase 6, duration: 1s @ 20:30:18(+0200) 2018-06-22
+Started phase 7, duration: undefineds @ 20:30:19(+0200) 2018-06-22
+Report @ 20:30:25(+0200) 2018-06-22
+  Scenarios launched:  100
+  Scenarios completed: 76
+  Requests completed:  76
+  RPS sent: 14.29
+  Request latency:
+    min: 474.7
+    max: 5916.9
+    median: 3252.9
+    p95: 5829.8
+    p99: 5915.9
+  Codes:
+    200: 76
+
+Started phase 8, duration: 1s @ 20:30:29(+0200) 2018-06-22
+Started phase 9, duration: undefineds @ 20:30:30(+0200) 2018-06-22
+Report @ 20:30:35(+0200) 2018-06-22
+  Scenarios launched:  125
+  Scenarios completed: 88
+  Requests completed:  88
+  RPS sent: 20.83
+  Request latency:
+    min: 510.3
+    max: 7722.3
+    median: 3829.5
+    p95: 7478
+    p99: 7718.5
+  Codes:
+    200: 88
+
+Started phase 10, duration: 1s @ 20:30:40(+0200) 2018-06-22
+Started phase 11, duration: undefineds @ 20:30:41(+0200) 2018-06-22
+Report @ 20:30:45(+0200) 2018-06-22
+  Scenarios launched:  150
+  Scenarios completed: 113
+  Requests completed:  113
+  RPS sent: 30
+  Request latency:
+    min: 509.3
+    max: 9837.6
+    median: 5810.4
+    p95: 9554.4
+    p99: 9833.7
+  Codes:
+    200: 113
+
+Started phase 12, duration: 1s @ 20:30:51(+0200) 2018-06-22
+Started phase 13, duration: undefineds @ 20:30:52(+0200) 2018-06-22
+Report @ 20:30:55(+0200) 2018-06-22
+  Scenarios launched:  175
+  Scenarios completed: 116
+  Requests completed:  116
+  RPS sent: 43.75
+  Request latency:
+    min: 2401.1
+    max: 12421.2
+    median: 7677.7
+    p95: 12053.3
+    p99: 12415.6
+  Codes:
+    200: 116
+
+Started phase 14, duration: 1s @ 20:31:02(+0200) 2018-06-22
+Started phase 15, duration: undefineds @ 20:31:03(+0200) 2018-06-22
+Report @ 20:31:05(+0200) 2018-06-22
+  Scenarios launched:  200
+  Scenarios completed: 116
+  Requests completed:  116
+  RPS sent: 66.45
+  Request latency:
+    min: 4029.2
+    max: 13028.4
+    median: 8428
+    p95: 12739.2
+    p99: 13025.5
+  Codes:
+    200: 116
+
+Started phase 16, duration: 1s @ 20:31:13(+0200) 2018-06-22
+Started phase 17, duration: undefineds @ 20:31:14(+0200) 2018-06-22
+Report @ 20:31:15(+0200) 2018-06-22
+  Scenarios launched:  225
+  Scenarios completed: 112
+  Requests completed:  112
+  RPS sent: 111.94
+  Request latency:
+    min: 6450.1
+    max: 16464.4
+    median: 10775.4
+    p95: 15795.6
+    p99: 16243.5
+  Codes:
+    200: 112
+
+Started phase 18, duration: 1s @ 20:31:24(+0200) 2018-06-22
+Started phase 19, duration: undefineds @ 20:31:25(+0200) 2018-06-22
+Report @ 20:31:25(+0200) 2018-06-22
+  Scenarios launched:  250
+  Scenarios completed: 129
+  Requests completed:  129
+  RPS sent: 245.1
+  Request latency:
+    min: 88.7
+    max: 22037.3
+    median: 16879.7
+    p95: 21631.3
+    p99: 22021.1
+  Codes:
+    200: 123
+    500: 6
+  Errors:
+    ECONNRESET: 73
+
+Started phase 20, duration: 1s @ 20:31:35(+0200) 2018-06-22
+Report @ 20:31:35(+0200) 2018-06-22
+  Scenarios launched:  7
+  Scenarios completed: 119
+  Requests completed:  119
+  RPS sent: 300
+  Request latency:
+    min: 94.9
+    max: 22663.6
+    median: 17136.7
+    p95: 21693.4
+    p99: 22473.1
+  Codes:
+    200: 117
+    500: 2
+  Errors:
+    ECONNRESET: 17
+
+Started phase 21, duration: undefineds @ 20:31:36(+0200) 2018-06-22
+Report @ 20:31:45(+0200) 2018-06-22
+  Scenarios launched:  268
+  Scenarios completed: 124
+  Requests completed:  124
+  RPS sent: 26.9
+  Request latency:
+    min: 92.4
+    max: 31557
+    median: 25711.6
+    p95: 31090.7
+    p99: 31547.8
+  Codes:
+    200: 116
+    500: 8
+  Errors:
+    ECONNRESET: 139
+
+Started phase 22, duration: 1s @ 20:31:46(+0200) 2018-06-22
+Started phase 23, duration: undefineds @ 20:31:47(+0200) 2018-06-22
+Report @ 20:31:55(+0200) 2018-06-22
+  Scenarios launched:  300
+  Scenarios completed: 129
+  Requests completed:  129
+  RPS sent: 33.22
+  Request latency:
+    min: 97.3
+    max: 30535.1
+    median: 25431.1
+    p95: 30179.3
+    p99: 30486.9
+  Codes:
+    200: 120
+    500: 9
+  Errors:
+    ECONNRESET: 162
+
+Started phase 24, duration: 1s @ 20:31:57(+0200) 2018-06-22
+Started phase 25, duration: undefineds @ 20:31:58(+0200) 2018-06-22
+Report @ 20:32:05(+0200) 2018-06-22
+  Scenarios launched:  325
+  Scenarios completed: 125
+  Requests completed:  125
+  RPS sent: 40.52
+  Request latency:
+    min: 93.3
+    max: 32864.1
+    median: 26986.6
+    p95: 32442.7
+    p99: 32825.4
+  Codes:
+    200: 116
+    500: 9
+  Errors:
+    ECONNRESET: 189
+
+Started phase 26, duration: 1s @ 20:32:08(+0200) 2018-06-22
+Started phase 27, duration: undefineds @ 20:32:09(+0200) 2018-06-22
+Report @ 20:32:15(+0200) 2018-06-22
+  Scenarios launched:  350
+  Scenarios completed: 125
+  Requests completed:  125
+  RPS sent: 49.79
+  Request latency:
+    min: 100.5
+    max: 32789.6
+    median: 26913.7
+    p95: 32408.9
+    p99: 32754.5
+  Codes:
+    200: 116
+    500: 9
+  Errors:
+    ECONNRESET: 209
+
+Started phase 28, duration: 1s @ 20:32:19(+0200) 2018-06-22
+Started phase 29, duration: undefineds @ 20:32:20(+0200) 2018-06-22
+Report @ 20:32:25(+0200) 2018-06-22
+  Scenarios launched:  375
+  Scenarios completed: 125
+  Requests completed:  125
+  RPS sent: 62.19
+  Request latency:
+    min: 103.5
+    max: 33488.7
+    median: 27129.3
+    p95: 32412.2
+    p99: 32988.4
+  Codes:
+    200: 116
+    500: 9
+  Errors:
+    ECONNRESET: 238
+
+Started phase 30, duration: 1s @ 20:32:30(+0200) 2018-06-22
+Started phase 31, duration: undefineds @ 20:32:31(+0200) 2018-06-22
+Report @ 20:32:35(+0200) 2018-06-22
+  Scenarios launched:  400
+  Scenarios completed: 126
+  Requests completed:  126
+  RPS sent: 79.37
+  Request latency:
+    min: 109.5
+    max: 32796.4
+    median: 27859.5
+    p95: 32349.9
+    p99: 32727.7
+  Codes:
+    200: 120
+    500: 6
+  Errors:
+    ECONNRESET: 266
+
+Started phase 32, duration: 1s @ 20:32:41(+0200) 2018-06-22
+Started phase 33, duration: undefineds @ 20:32:42(+0200) 2018-06-22
+Report @ 20:32:45(+0200) 2018-06-22
+  Scenarios launched:  425
+  Scenarios completed: 120
+  Requests completed:  120
+  RPS sent: 105.2
+  Request latency:
+    min: 199.2
+    max: 33156.1
+    median: 28420.5
+    p95: 32654
+    p99: 33080.7
+  Codes:
+    200: 116
+    500: 4
+  Errors:
+    ECONNRESET: 278
+
+Started phase 34, duration: 1s @ 20:32:52(+0200) 2018-06-22
+Started phase 35, duration: undefineds @ 20:32:53(+0200) 2018-06-22
+Report @ 20:32:55(+0200) 2018-06-22
+  Scenarios launched:  450
+  Scenarios completed: 122
+  Requests completed:  122
+  RPS sent: 147.54
+  Request latency:
+    min: 165.5
+    max: 33326.1
+    median: 28388.9
+    p95: 32666.5
+    p99: 33272.8
+  Codes:
+    200: 116
+    500: 6
+  Errors:
+    ECONNRESET: 314
+
+Started phase 36, duration: 1s @ 20:33:03(+0200) 2018-06-22
+Started phase 37, duration: undefineds @ 20:33:05(+0200) 2018-06-22
+Report @ 20:33:05(+0200) 2018-06-22
+  Scenarios launched:  475
+  Scenarios completed: 129
+  Requests completed:  129
+  RPS sent: 236.32
+  Request latency:
+    min: 94.1
+    max: 32792.9
+    median: 27999
+    p95: 32629.5
+    p99: 32791.6
+  Codes:
+    200: 119
+    500: 10
+  Errors:
+    ECONNRESET: 337
+
+Started phase 38, duration: 1s @ 20:33:15(+0200) 2018-06-22
+Report @ 20:33:15(+0200) 2018-06-22
+  Scenarios launched:  186
+  Scenarios completed: 117
+  Requests completed:  117
+  RPS sent: 502.7
+  Request latency:
+    min: 24086.7
+    max: 33153.7
+    median: 28919.3
+    p95: 32784
+    p99: 32967.4
+  Codes:
+    200: 117
+
+Report @ 20:33:25(+0200) 2018-06-22
+  Scenarios launched:  314
+  Scenarios completed: 117
+  Requests completed:  117
+  RPS sent: 31.4
+  Request latency:
+    min: 1952.7
+    max: 34443.2
+    median: 28329.2
+    p95: 33198.4
+    p99: 34434.4
+  Codes:
+    200: 116
+    500: 1
+  Errors:
+    ECONNRESET: 358
+
+Report @ 20:33:35(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 120
+  Requests completed:  120
+  RPS sent: NaN
+  Request latency:
+    min: 23391.5
+    max: 33707.6
+    median: 28226.9
+    p95: 33355.1
+    p99: 33699.6
+  Codes:
+    200: 120
+
+Report @ 20:33:45(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 120
+  Requests completed:  120
+  RPS sent: NaN
+  Request latency:
+    min: 22471.4
+    max: 32706.9
+    median: 27323.4
+    p95: 32489.1
+    p99: 32648.2
+  Codes:
+    200: 120
+
+Report @ 20:33:55(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 47
+  Requests completed:  47
+  RPS sent: NaN
+  Request latency:
+    min: 30374.1
+    max: 33583.7
+    median: 32133
+    p95: 33362.8
+    p99: 33583.7
+  Codes:
+    200: 47
+
+Report @ 20:34:05(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+
+Report @ 20:34:15(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+
+Report @ 20:34:25(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+
+Report @ 20:34:35(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+
+Report @ 20:34:45(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ESOCKETTIMEDOUT: 3
+
+Report @ 20:34:54(+0200) 2018-06-22
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: NaN
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ESOCKETTIMEDOUT: 2
+
+All virtual users finished
+Summary report @ 20:34:54(+0200) 2018-06-22
+  Scenarios launched:  5250
+  Scenarios completed: 2665
+  Requests completed:  2665
+  RPS sent: 17.03
+  Request latency:
+    min: 88.7
+    max: 34443.2
+    median: 24303.8
+    p95: 32398.3
+    p99: 33152.8
+  Scenario counts:
+    Login please: 5250 (100%)
+  Codes:
+    200: 2586
+    500: 79
+  Errors:
+    ECONNRESET: 2580
+    ESOCKETTIMEDOUT: 5
+

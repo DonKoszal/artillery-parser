@@ -1,0 +1,17 @@
+{
+  "name": "artillery-parser",
+  "version": "1.0.0",
+  "description": "Artillery result parser to json/csv",
+  "main": "index.js",
+  "scripts": {
+    "parse": "node index.js all",
+    "parse-json": "node index.js json",
+    "parse-csv": "node index.js csv",
+    "test": "node index.js all test/artillery-result.txt"
+  },
+  "author": "Piotr Koszal",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^4.1.4"
+  }
+}
